@@ -20,6 +20,10 @@ func main(){
 }
 ```
 
+## Go Bindings from Mumax Cu
+
+- https://godoc.org/github.com/mumax/3/cuda/cu
+
 ## Go Dependencies
 
 - go get github.com/barnex/cuda5/cu
