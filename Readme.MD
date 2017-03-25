@@ -20,6 +20,14 @@ func main(){
 }
 ```
 
+Response message:
+```
+/usr/local/go/bin/go run (...)/src/github.com/miguelzambrana/cudagolabs/cudaHello.go
+Hello, I am you GPU: GeForce GTX 960
+Number of devices: 1
+Free memory: 4227072000
+```
+
 ## Go Bindings from Mumax Cu
 
 - https://godoc.org/github.com/mumax/3/cuda/cu
